@@ -21,6 +21,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
     ffi (1.9.10-x64-mingw32)
+    font-awesome-sass (4.5.0)
+      sass (>= 3.2)
     gemoji (2.1.0)
     github-pages (76)
       RedCloth (= 4.2.9)
@@ -132,6 +134,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  font-awesome-sass
   github-pages
 
 BUNDLED WITH
